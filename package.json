@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "axios": "^1.3.4",
+    "expess": "^0.0.1-security",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.22",
+    "xlsx": "^0.18.5"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vswaroop04/LeetCode-User-Data-Analysis.git"
+  },
+  "keywords": [
+    "Data",
+    "Analytics",
+    "Leet",
+    "Code"
+  ],
+  "author": "K V Vishnu Swaroop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vswaroop04/LeetCode-User-Data-Analysis/issues"
+  },
+  "homepage": "https://github.com/Vswaroop04/LeetCode-User-Data-Analysis#readme",
+  "description": ""
+}
