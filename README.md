@@ -63,7 +63,7 @@ The data analysis includes:
 - 3d Plots using Clustering
 
 
-Team Members Involved :-
+Thanks to our team:-
 
 1. K V Vishnu Swaroop
 2. Rohith Khandal
@@ -71,4 +71,7 @@ Team Members Involved :-
 4. Vivek Borole
 5. Gurupal Singh
 
--------------------------------------------------------------------------   Made by Vishnu ----------------------------------------------------------------------------
+
+<p align="center">
+  Made with ❤ by VishnuSwaroop
+</p>
